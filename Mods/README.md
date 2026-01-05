@@ -29,6 +29,7 @@
 | |  [Top Hat Braces](/Mods/G/Top_Hat_Braces) | A collection of STLs to permanantly secure the top hat |
 | |  [GBB15 Motor Panel](/Mods/G/GBB15_Motor_Panel) | GBB15 motor panel mount |
 | fronti90 |[48mm Z Motors](/Mods/fronti90/48mm_z_motors) | Mounts and skirts for 48 mm Z Motors |
+| anchit92 | [Alternate Skirt](/Mods/anchit92/Alternate-Skirt) | Alternate Skirt |
 
 <br>
 <br>
